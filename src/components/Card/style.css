@@ -1,0 +1,13 @@
+.containerCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 26px;
+    border: 2px black solid;
+    border-radius: 10px;
+    width: 30%;
+    height: 600px;
+    background-color: cadetblue;
+    color: darkblue;
+
+}
